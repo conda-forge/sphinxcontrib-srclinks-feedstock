@@ -1,5 +1,5 @@
 {% set name = "sphinxcontrib-srclinks" %}
-{% set version = "v0.2.2" %}
+{% set version = "v0.2.3" %}
 
 package:
   name: {{ name|lower }}
